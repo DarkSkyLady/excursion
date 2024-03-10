@@ -4,11 +4,26 @@ body {
     font-family: Verdana, sans-serif;
 }
 
+/* HEADINGS */
+
 .header {
     font-weight: normal;
     font-size: 50px;
     color: #ffffff;
 }
+
+.header-2 {
+    color: #ffffff;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.header-sub {
+    color: gray;
+    font-size: 21px;
+}
+
+/* LINKS */
 
 .download-link {
     color: aquamarine;
